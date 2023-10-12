@@ -44,6 +44,4 @@ Follow these instructions to set up the project on your local machine.
    npm install
    ```
 ### Usage
-    ```
-      npm start
-    ```
+    npm start
